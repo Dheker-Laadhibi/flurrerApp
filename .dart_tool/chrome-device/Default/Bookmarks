@@ -1,0 +1,177 @@
+{
+   "checksum": "fc0add318d6745ddc8eae317f52b366f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13375355643891632",
+            "date_last_used": "0",
+            "guid": "be75b174-5833-4bdf-a30c-c843d8518275",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "VEED CREATE | Edit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.veed.io/edit/1cc0cd9f-de3d-45f5-b2b4-ac78a51944e0/media",
+            "visit_count": 1
+         }, {
+            "date_added": "13382870968700657",
+            "date_last_used": "0",
+            "guid": "195755a2-c151-4f5f-8a9a-6cbc3e1d7904",
+            "id": "7",
+            "name": "Vidéos Bing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/videos/riverview/relatedvideo?q=template+java+fx&mid=139681639B79CF023BC6139681639B79CF023BC6&FORM=VIRE",
+            "visit_count": 0
+         }, {
+            "date_added": "13384381611404856",
+            "date_last_used": "0",
+            "guid": "70aa15ad-77ee-4e29-96ef-a25c27db77ca",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Creativa/src/main/resources/AjouterProjet.fxml at hajer · AyoubRebhi/Creativa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/AyoubRebhi/Creativa/blob/hajer/src/main/resources/AjouterProjet.fxml",
+            "visit_count": 1
+         }, {
+            "date_added": "13384718967892514",
+            "date_last_used": "13384735856122927",
+            "guid": "7c79b40a-fc6c-45b6-8a9a-c332879d1e77",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "meriem2106/3A56_yuri-s_P4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/meriem2106/3A56_yuri-s_P4",
+            "visit_count": 2
+         }, {
+            "date_added": "13383915284454196",
+            "date_last_used": "0",
+            "guid": "5cb7367f-9e69-4a22-b1bb-34386ad976d1",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nouvel onglet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 1
+         }, {
+            "date_added": "13384785822240674",
+            "date_last_used": "13385332682593781",
+            "guid": "17345fa0-d117-44cf-af38-9c96b3d81435",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "3A56_yuri-s_P4/src at main · meriem2106/3A56_yuri-s_P4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/meriem2106/3A56_yuri-s_P4/tree/main/src",
+            "visit_count": 2
+         }, {
+            "date_added": "13384785838608377",
+            "date_last_used": "0",
+            "guid": "d1d8109b-9174-423b-a0a7-96a8a1aaa8c2",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DashboardFx/README.md at master · gleidsonmt/DashboardFx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/gleidsonmt/DashboardFx/blob/master/README.md",
+            "visit_count": 1
+         }, {
+            "date_added": "13385362221106034",
+            "date_last_used": "0",
+            "guid": "f6701494-c906-4c1d-b5ca-eec6fa1ebbec",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "pidevalpharocJava/src/main/java/services/FullCalederService.java at full-project · JawherTouil/pidevalpharocJava",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/JawherTouil/pidevalpharocJava/blob/full-project/src/main/java/services/FullCalederService.java",
+            "visit_count": 1
+         }, {
+            "date_added": "13386482714381870",
+            "date_last_used": "0",
+            "guid": "6bb43de0-04d1-4b04-bf3f-5e98249fac1b",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fichier",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://esprit.blackboard.com/ultra/courses/_5740_1/outline/file/_1522967_1",
+            "visit_count": 1
+         }, {
+            "date_added": "13387028178002811",
+            "date_last_used": "0",
+            "guid": "199ceb6c-e99e-4d5e-91bf-03bf646cb8ed",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PI-symfony-javaFX/src/Service/TwilioService.php at symfony · jihenesaad/PI-symfony-javaFX",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/jihenesaad/PI-symfony-javaFX/blob/symfony/src/Service/TwilioService.php",
+            "visit_count": 1
+         } ],
+         "date_added": "13387260594300762",
+         "date_last_used": "0",
+         "date_modified": "13387028178002811",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13387260594300765",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13387260594300769",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l’appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCCKePcaVAQAAEgAqGGQ0ZjN5OWs1M1lpTGR3MHAyVFBiSlE9PUgDoAYMEq0BCA8SqAEKHDZwWmFFQjhOZU5aUUxzNy9sRG11Wk96bVRBaz0SJDE5OWNlYjZjLWU5OWUtNGQ1ZS05MWJmLTAzYmY2NDZjYjhlZBgAIAAoADCyjuPC2zI455bjwtsyQOeW48LbMkocMmhoa2ZwMTRjZDc2c0lJWXZiZDg1K3l1akhZPVofIh3/S1NaYnExVlVEMGcrQmd3TWtOV3k5c0QzaDYwPWXI8z+7wj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMmVjYmFiYWQtMzA2OC01YjQyLTk1M2QtNGI2NmJlODJlYWM3GAAgACgAMKXElYrDMTiW0pWKwzFAltKVisMxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEq0BCAoSqAEKHGJPaFVmY2xyTlJTdWYrSysrWEltdFBzSmd5dz0SJDVjYjczNjdmLTllNjktNGEyMi1iMWJiLTM0Mzg2YWQ5NzZkMRgAIAEoATDL7Oex3DI4/KqnktMyQP3szLHcMkocVFRSdEUza2tNMGpIVVpGYlA1VU8zVmdOUE9BPVofIh33dEtLL2NVQ1RPbUVWMWVsL2xCcllqVXVhWHpvPWVU1WA+wj4CYAUSrQEIDhKoAQocWEx4azVaZnkvVEZGK3B0aGJMdW1ReGVucE5NPRIkNmJiNDNkZTAtMDRkMS00YjA0LWJmM2YtNWU5ODI0OWZhYzFiGAAgACgAMP7f1r7ZMjjK49a+2TJAyuPWvtkyShxQTzZRdFJPS05VbHY3c2djMXltWWdjUjh2MjA9Wh8iHf8rMEtTd3BBaGxncmN4SCtxMXlnMUVHS3BYMTg9ZR5YuubCPgJgBRKtAQgJEqgBChw2TUxVWW1oZXQzeDgzZnZ2YmNqY2FnTTFCWlk9EiQ3Yzc5YjQwYS1mYzZjLTQ1YjYtOGE5YS1jMzMyODc5ZDFlNzcYACAAKAAw3ZinktMyOOiW1PXSMkDoltT10jJKHC85Q1RRZ0Jmdm9ITVR5WnQ1RVVUNGhGalg1cz1aHyId3XBTUk1wRmd6NzJLc2FlYU5mS2hlb1h0N2pDND1lyPM/u8I+AmAFEq0BCAgSqAEKHHQ0Z3g0dGNsZzdraXRhL2hKeUIxbW9iWTJ6TT0SJDcwYWExNWFkLTc3ZWUtNGUyOS05NmVmLWEyNWMyN2RiNzdjYRgAIAAoADDemKeS0zI4rsvl1NEyQK7L5dTRMkocZmlXWlE1RXNldlNKd0ZHeXFBQnQxNmJoZFNVPVofIh27TVlhUkpCRWdCOFU5N01sdnoyQk5HV1NGQjJNPWXI8z+7wj4CYAUSrAEIBxKnAQocaENyamlTOUJkdWxwMFQ4eGVHV0RWTlo5QWxRPRIkMTk1NzU1YTItYzE1MS00ZjVmLThhOWEtNmNiYzNlMWQ3OTA0GAAgACgAMNyYp5LTMjj+r7uEzDJA/q+7hMwyShxhU3NIZjd2T2xtaUxiVElmUmxRRDhwa3lkS0k9Wh4iHHZiUUNmSjk0elZSMjRxZlJBNSsxczRqb0hMST1lsUSJCMI+AmAFEqwBCAYSpwEKHEZxRENzakllWUZnbGRCbFZxNXVhTWZUbEUyYz0SJGJlNzViMTc0LTU4MzMtNGJkZi1hMzBjLWM4NDNkODUxODI3NRgAIAAoADDbmKeS0zI4mKPwhLAyQJij8ISwMkocYUlmcE1YbnJ2VmszZ1dxakVOWUtZZG8vYTY0PVoeIhxMRFZCMjl5b3FSL2JsOGZlQ29UOXIwa3pRZ0E9Zcyi18XCPgJgBRKtAQgNEqgBChxZcVB0S1RFa1hKY0NDZTUwSi9CWHZGbW9EVEU9EiRmNjcwMTQ5NC1jOTA2LTRjMWQtYjVjYS1lZWM2ZmExZWJiZWMYACAAKAAwuKGxqNUyOLalsajVMkC2pbGo1TJKHE5sUWJ1V1pxSFIzbjBjQlRVVVN2YVBuczlsbz1aHyId/lozc3dVSHpVY3ZMaWtTemw0Z1duL2g3blY1ST1lyPM/u8I+AmAFEq0BCAsSqAEKHElmV0FMY1BOcTA4cjdDVk16NXRoVzF3akpZcz0SJDE3MzQ1ZmEwLWQxMTctNDRjZi1hZjM4LTljOTZiM2Q4MTQzNRgAIAAoADCR65So1TI4yNHEldMyQMjRxJXTMkoceWJySldDTmZVMTZ4cmhqSFkxS2MvODZkNkhBPVofIh37RDJFV2h6V2hmZjVMMWdZYWVuNjFzcnA1OGFnPWXI8z+7wj4CYAUSrQEIDBKoAQocTE0rOHAvMUhQSUtxMFhNUWhRbEF5SEthT0ZnPRIkZDFkODEwOWItOTE3NC00MjNiLWEwYTctOTZhOGExYWFhOGMyGAAgACgAMLzMxZXTMjivz8WV0zJAr8/FldMyShw4OFFPMTIzL0hxcVBwL3crLzQ1K3kxNHY4RUU9Wh8iHf1GeFBkazNJMGNLZlRyL04rZFUraE1xcTB2RTg9ZcjzP7vCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ5ZGQxN2YwZC02NzFlLTU3MzgtODZjYi0yZGRkNTFkMDhlNTMYACAAKAAwoMSVisMxONTRlYrDMUDU0ZWKwzFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNThiYTljZDAtZTExNC01YzRhLWE1YWEtNjQ1YzE0MTIwMWEwGAAgACgAMJ/ElYrDMTiy0ZWKwzFAstGVisMxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
